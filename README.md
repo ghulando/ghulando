@@ -61,12 +61,6 @@ const andranik = {
 - 🌙 Night owl by nature, early bird by necessity
 - 🔧 I can fix most things... except my sleep schedule
 
-## 📈 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
