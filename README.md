@@ -39,11 +39,11 @@ const andranik = {
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform" />
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github" />
+### 🗄️ Databases & OS
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,linux, windows" />
 
 ### 🎨 Other Cool Stuff
-<img src="https://skillicons.dev/icons?i=linux,vscode,rider" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
 
 </div>
 
