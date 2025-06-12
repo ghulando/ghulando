@@ -18,7 +18,6 @@ const andranik = {
     location: "🌍 Somewhere in the cloud",
     currentlyWorking: "Building awesome stuff with .NET & Azure",
     motto: "Technology agnostic, results obsessed 🎯",
-    recentlyAdded: "PowerShell to my arsenal 💪"
 };
 ```
 
