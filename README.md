@@ -34,7 +34,7 @@ const andranik = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell,bash" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform" />
