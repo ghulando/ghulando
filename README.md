@@ -34,16 +34,16 @@ const andranik = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,javascript,powershell,python" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,jenkins,terraform" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,github" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github" />
 
 ### 🎨 Other Cool Stuff
-<img src="https://skillicons.dev/icons?i=linux,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,postman" />
 
 </div>
 
