@@ -42,7 +42,7 @@ const andranik = {
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,linux,windows" />
 
 ### 🎨 Other Cool Stuff
-<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
+<img src="https://skillicons.dev/icons?i=ai,git,github,vscode,rider,visualstudio" />
 
 </div>
 
