@@ -51,15 +51,7 @@ const andranik = {
 - 🔍 Exploring the latest in **AI/ML integration** with .NET applications
 - 🚀 Building more **cloud-native** solutions
 - 📖 Sharing knowledge and **mentoring** fellow developers
-- 🌱 Always learning something new (currently diving deeper into **Kubernetes**)
-
-## 💬 Fun Facts
-
-- 🎮 When I'm not coding, you'll find me gaming or binge-watching sci-fi shows
-- 🎵 I code better with music (usually something electronic or lo-fi)
-- 🍕 Debugging sessions are 73% more effective with pizza
-- 🌙 Night owl by nature, early bird by necessity
-- 🔧 I can fix most things... except my sleep schedule
+- 🌱 Always learning something new
 
 ## 🤝 Let's Connect!
 
