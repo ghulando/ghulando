@@ -68,14 +68,3 @@ const andranik = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andranik-ghulyan-b9557796/)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
-
-<div align="center">
-  <i>Happy Coding! 🚀</i>
-</div>
