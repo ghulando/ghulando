@@ -1,15 +1,5 @@
 # Hey there! 👋 I'm Andranik
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%92%BB;Software+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+%26+DevOps+Specialist+%E2%98%81%EF%B8%8F;AI+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
 ## 🧑‍💻 About Me
 
 ```typescript
