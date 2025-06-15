@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Andranik
+# Hey, I'm Andranik
 
 ## 🧑‍💻 About Me
 
@@ -32,16 +32,9 @@ const andranik = {
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,linux,windows" />
 
 ### 🎨 Other Cool Stuff
-<img src="https://skillicons.dev/icons?i=ai,git,github,vscode,rider,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
 
 </div>
-
-## 🎯 Current Mission
-
-- 🔍 Exploring the latest in **AI/ML integration** with .NET applications
-- 🚀 Building more **cloud-native** solutions
-- 📖 Sharing knowledge and **mentoring** fellow developers
-- 🌱 Always learning something new
 
 ## 🤝 Let's Connect!
 
