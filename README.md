@@ -20,7 +20,7 @@ const andranik = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell,bash" />
