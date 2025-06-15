@@ -16,7 +16,7 @@ const andranik = {
 - 🏗️ **Architect** scalable solutions that don't break at 3 AM
 - ☁️ **Cloud wrangler** - Making Azure bend to my will
 - 🤝 **Team collaborator** - Because great code is a team sport
-- 📚 **Rapid learner** - I collect programming languages like Pokémon cards
+- 📚 **Rapid learner** - Love learnin new stuff
 
 ## 🛠️ Tech Stack & Tools
 
