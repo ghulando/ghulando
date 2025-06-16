@@ -4,8 +4,8 @@
 
 - 🏗️ **Results-Oriented** - Consistently drive projects to completion
 - ☁️ **Technology Agnostic** - While expert in .NET, Azure Cloud, and SQL I possess a flexible approach to technology
-- 🤝 **Rapid Learner** - Proven ability to quickly master new technologies and stacks
-- 📚 **Dedicated Team Player** - Committed to collaborating effectively with cross-functional teams
+- 📚 **Rapid Learner** - Proven ability to quickly master new technologies and stacks
+- 🤝 **Dedicated Team Player** - Committed to collaborating effectively with cross-functional teams
 
 ## 🛠️ Tech Stack & Tools
 
