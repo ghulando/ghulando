@@ -2,21 +2,10 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const andranik = {
-    pronouns: "he/him",
-    location: "🌍 Somewhere in the cloud",
-    currentlyWorking: "Building awesome stuff with .NET & Azure",
-    motto: "Technology agnostic, results obsessed 🎯",
-};
-```
-
-## 🚀 What I Do
-
-- 🏗️ **Architect** scalable solutions that don't break at 3 AM
-- ☁️ **Cloud wrangler** - Making Azure bend to my will
-- 🤝 **Team collaborator** - Because great code is a team sport
-- 📚 **Rapid learner** - Love learnin new stuff
+- 🏗️ **Results-Oriented** - Consistently drive projects to completion, meeting and exceeding predetermined KPIs through strategic planning and effective execution.
+- ☁️ **Technology Agnostic** - While expert in .NET, Azure Cloud, and SQL I possess a flexible approach to technology, ensuring the best tools are used for optimal outcomes
+- 🤝 **Rapid Learner** - Proven ability to quickly master new technologies and stacks. Recently added PowerShell to my repertoire, enhancing project versatility and automation capabilities
+- 📚 **Dedicated Team Player** - Committed to collaborating effectively with cross-functional teams, fostering an environment of mutual growth and respect to achieve collective goals
 
 ## 🛠️ Tech Stack & Tools
 
