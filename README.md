@@ -11,17 +11,7 @@
 
 <div align="left">
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell,bash" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform" />
-
-### 🗄️ Databases & OS
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,linux,windows" />
-
-### 🎨 Other Cool Stuff
-<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,typescript,powershell,bash,azure,aws,docker,kubernetes,terraform,postgresql,mongodb,redis,linux,windows,git,github,vscode,rider,visualstudio" />
 
 </div>
 
