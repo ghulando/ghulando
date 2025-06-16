@@ -2,10 +2,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Results-Oriented** - Consistently drive projects to completion, meeting and exceeding predetermined KPIs through strategic planning and effective execution.
-- ☁️ **Technology Agnostic** - While expert in .NET, Azure Cloud, and SQL I possess a flexible approach to technology, ensuring the best tools are used for optimal outcomes
-- 🤝 **Rapid Learner** - Proven ability to quickly master new technologies and stacks. Recently added PowerShell to my repertoire, enhancing project versatility and automation capabilities
-- 📚 **Dedicated Team Player** - Committed to collaborating effectively with cross-functional teams, fostering an environment of mutual growth and respect to achieve collective goals
+- 🏗️ **Results-Oriented** - Consistently drive projects to completion
+- ☁️ **Technology Agnostic** - While expert in .NET, Azure Cloud, and SQL I possess a flexible approach to technology
+- 🤝 **Rapid Learner** - Proven ability to quickly master new technologies and stacks
+- 📚 **Dedicated Team Player** - Committed to collaborating effectively with cross-functional teams
 
 ## 🛠️ Tech Stack & Tools
 
