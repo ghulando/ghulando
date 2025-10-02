@@ -6,7 +6,7 @@ Senior Software Engineer with 12+ years of experience delivering enterprise scal
 
 Specialized in AI powered systems and large language model integration, currently leading initiatives that drive developer productivity and software innovation through cutting edge AI solutions. Track record includes delivering production ready AI systems that achieved measurable business impact, such as 60% faster code reviews and 40% improved development velocity.
 
-Extensive experience in Azure cloud infrastructure, DevOps culture, and containerised microservices. Skilled in architecting CI/CD pipelines, automating deployments, implementing Infrastructure as Code, and optimising operational costs while ensuring scalability, security, and performance. Passionate about bridging software engineering, AI, and cloud technologies to deliver transformative business solutions.
+Extensive experience in Azure cloud infrastructure, DevOps culture, and containerised microservices. Skilled in architecting CI/CD pipelines, automating deployments, implementing Infrastructure as Code, and optimising operational costs while ensuring scalability, security, and performance.
 
 ## 🛠️ Tech Stack & Tools
 
