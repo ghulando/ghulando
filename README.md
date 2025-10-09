@@ -5,7 +5,7 @@
 Senior Software Engineer with 12+ years of experience building enterprise-scale systems across the .NET ecosystem, AI-powered solutions, and Azure cloud infrastructure. 
 Passionate about modern .NET, clean architecture, and integrating LLMs to improve developer workflows and productivity.
 
-I enjoy designing scalable microservices, automating CI/CD, and experimenting with AI-driven developer tools and cloud-native architectures.
+I enjoy designing scalable microservices, automating CI/CD, and experimenting with AI-driven developer tools and design cloud-native architectures.
 
 ## 🛠️ Tech Stack & Tools
 
