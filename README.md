@@ -2,11 +2,10 @@
 
 ## 🧑‍💻 About Me
 
-Senior Software Engineer with 12+ years of experience delivering enterprise scale solutions across the Microsoft technology stack, AI integration, and cloud-native systems. Proven expertise in the full .NET ecosystem from legacy .NET Framework to modern .NET Core designing and implementing scalable applications, migrating legacy systems, and establishing best practices for high-performing development teams.
+Senior Software Engineer with 12+ years of experience building enterprise-scale systems across the .NET ecosystem, AI-powered solutions, and Azure cloud infrastructure. 
+Passionate about modern .NET, clean architecture, and integrating LLMs to improve developer workflows and productivity.
 
-Specialized in AI powered systems and large language model integration, currently leading initiatives that drive developer productivity and software innovation through cutting edge AI solutions. Track record includes delivering production ready AI systems that achieved measurable business impact, such as 60% faster code reviews and 40% improved development velocity.
-
-Extensive experience in Azure cloud infrastructure, DevOps culture, and containerised microservices. Skilled in architecting CI/CD pipelines, automating deployments, implementing Infrastructure as Code, and optimising operational costs while ensuring scalability, security, and performance.
+I enjoy designing scalable microservices, automating CI/CD, and experimenting with AI-driven developer tools and cloud-native architectures.
 
 ## 🛠️ Tech Stack & Tools
 
