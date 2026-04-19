@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Software Engineer and Architect with 10+ years of experience designing and delivering enterprise scale solutions. 
+Software Engineer and Architect with 12+ years of experience designing and delivering enterprise scale solutions. 
 
 I specialise in the full .NET ecosystem, from legacy modernisation to cloud-native architecture, with deep expertise in Azure, DevOps, and scalable, high-performance systems.
 
