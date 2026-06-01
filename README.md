@@ -10,7 +10,7 @@ I specialise in the full .NET ecosystem, from legacy modernisation to cloud-nati
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=cs,typescript,powershell,bash,azure,docker,kubernetes,terraform,postgresql,mongodb,redis,linux,windows,git,github,vscode,rider,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,typescript,py,powershell,bash,azure,docker,kubernetes,terraform,postgresql,mongodb,redis,linux,windows,git,github,vscode,rider,visualstudio" />
 
 </div>
 
