@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Technical Lead with 12+ years of experience designing and delivering enterprise scale solutions.
+Technical Lead with 13+ years of experience designing and delivering enterprise scale solutions.
 
 ## 🛠️ Tech Stack & Tools
 
