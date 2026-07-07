@@ -8,7 +8,17 @@ Technical Lead & backend engineer, 13+ years in distributed systems. Building AI
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=cs,go,typescript,py,powershell,bash,azure,docker,kubernetes,terraform,postgresql,mongodb,redis,linux,windows,git,github,vscode,rider,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,go,typescript,py" />
+<br/>
+<img src="https://skillicons.dev/icons?i=powershell,bash" />
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
 
 </div>
 
