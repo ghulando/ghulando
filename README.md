@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 Technical Lead & backend engineer, 13+ years in distributed systems. Building AI-powered dev tools.
-<br/>
+
 I mentor, review code, and modernize legacy systems.
 
 ## 🛠️ Tech Stack & Tools
