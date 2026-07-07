@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Technical Lead with 13+ years of experience designing and delivering enterprise scale solutions.
+Technical Lead & backend engineer, 13+ years in distributed systems. Building AI-powered dev tools. I mentor, review code, and modernize legacy systems.
 
 ## 🛠️ Tech Stack & Tools
 
