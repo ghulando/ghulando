@@ -6,7 +6,7 @@ Technical Lead & backend engineer, 13+ years in distributed systems. Building AI
 
 I mentor, review code, and modernize legacy systems.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="left">
 
@@ -20,7 +20,6 @@ I mentor, review code, and modernize legacy systems.
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,rider,visualstudio" />
 
 </div>
 
