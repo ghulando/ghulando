@@ -1,4 +1,4 @@
-# Hey, I'm Andranik
+# Hi, I'm Andranik
 
 ## 🧑‍💻 About Me
 
