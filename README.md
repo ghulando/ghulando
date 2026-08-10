@@ -1,7 +1,5 @@
 # Hi, I'm Andranik
 
-## 🧑‍💻 About Me
-
 Technical Lead & Backend Engineer, 13+ years in distributed systems. Building AI-powered dev tools.
 
 I mentor, review code, and modernize legacy systems.
